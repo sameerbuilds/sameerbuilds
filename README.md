@@ -76,8 +76,8 @@ I add short animated demos (gifs) for features. Look in each repo for `demo.gif`
 ---
  
 ## 📫 Contact
-- Email: sameer@example.com  
-- LinkedIn: https://www.linkedin.com/in/sameer (update to your actual URL)
+- Email: sameer4321099@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohammed-sameer-a3317a237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
  
 ---
  
